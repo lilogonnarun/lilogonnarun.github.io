@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dc64951-43f8-4a85-a669-11e39bf47ad9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="PhpStorm 2019.3" id="3db1e4a0-db1f-495e-b141-0409b2e8c2d9" name="PhpStorm 2019.3" port="8080" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UeBPNNjHasZz5oAoRm0RnXJp0u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/startbootstrap/pages" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lilo\PhpstormProjects\untitled21\startbootstrap\pages" />
+      <recent name="C:\Users\Lilo\PhpstormProjects\untitled21\startbootstrap\help" />
+      <recent name="C:\Users\Lilo\PhpstormProjects\untitled21\save" />
+      <recent name="C:\Users\Lilo\PhpstormProjects\untitled21\startbootstrap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lilo\PhpstormProjects\untitled21\startbootstrap\pages" />
+      <recent name="C:\Users\Lilo\PhpstormProjects\untitled21\startbootstrap" />
+      <recent name="C:\Users\Lilo\PhpstormProjects\untitled21" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.emmmp.php">
+    <configuration name="INSERT.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/untitled21/INSERT.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="emmmp.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/untitled21/save/emmmp.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="emp.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/untitled21/emp.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/untitled21/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.INSERT.php" />
+      <item itemvalue="JavaScript Debug.emp.html" />
+      <item itemvalue="JavaScript Debug.emmmp.php" />
+      <item itemvalue="JavaScript Debug.index.php" />
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.emmmp.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.emp.html" />
+        <item itemvalue="JavaScript Debug.INSERT.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dc64951-43f8-4a85-a669-11e39bf47ad9" name="Default Changelist" comment="" />
+      <created>1575707155984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575707155984</updated>
+      <workItem from="1575707157890" duration="4639000" />
+      <workItem from="1575712314755" duration="263000" />
+      <workItem from="1575806058135" duration="8886000" />
+      <workItem from="1575890433094" duration="5710000" />
+      <workItem from="1575896194875" duration="331000" />
+      <workItem from="1575963779787" duration="2515000" />
+      <workItem from="1575967069041" duration="15929000" />
+      <workItem from="1575983196718" duration="2438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1575811431622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1575811431622" />
+    <state x="658" y="0" key="#PHP" timestamp="1575707901251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="658" y="0" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1575707901251" />
+    <state x="568" y="70" key="#SQL_Dialects" timestamp="1575893921772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="70" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1575893921772" />
+    <state x="302" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575964059531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="302" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1575964059531" />
+    <state x="622" y="220" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1575892240635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="622" y="220" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.824@0.0.1536.824" timestamp="1575892240635" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575971439600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1575971439600" />
+    <state x="672" y="195" key="FileChooserDialogImpl" timestamp="1575967834058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="672" y="195" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575967834058" />
+    <state width="1537" height="251" key="GridCell.Tab.0.bottom" timestamp="1575983138497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575983138497" />
+    <state width="1537" height="251" key="GridCell.Tab.0.center" timestamp="1575983138497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575983138497" />
+    <state width="1537" height="251" key="GridCell.Tab.0.left" timestamp="1575983138496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575983138496" />
+    <state width="1537" height="251" key="GridCell.Tab.0.right" timestamp="1575983138497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575983138497" />
+    <state width="1537" height="251" key="GridCell.Tab.1.bottom" timestamp="1575983138498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575983138498" />
+    <state width="1537" height="251" key="GridCell.Tab.1.center" timestamp="1575983138498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575983138498" />
+    <state width="1537" height="251" key="GridCell.Tab.1.left" timestamp="1575983138497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575983138497" />
+    <state width="1537" height="251" key="GridCell.Tab.1.right" timestamp="1575983138498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575983138498" />
+    <state width="1537" height="251" key="GridCell.Tab.2.bottom" timestamp="1575983138499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575983138499" />
+    <state width="1537" height="251" key="GridCell.Tab.2.center" timestamp="1575983138498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1575983138498" />
+    <state width="1537" height="251" key="GridCell.Tab.2.left" timestamp="1575983138498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1575983138498" />
+    <state width="1537" height="251" key="GridCell.Tab.2.right" timestamp="1575983138498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="251" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1575983138498" />
+    <state x="953" y="343" key="NewPhpFileDialog" timestamp="1575966789884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="953" y="343" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1575966789884" />
+    <state x="422" y="70" width="996" height="707" key="SettingsEditor" timestamp="1575893103348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="422" y="70" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575893103348" />
+    <state x="833" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1575983335902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="833" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575983335902" />
+    <state x="437" y="90" width="925" height="831" maximized="true" key="dock-window-1" timestamp="1575963887259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="90" width="925" height="831" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1575963887259" />
+    <state x="632" y="188" key="run.anything.popup" timestamp="1575708504529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="632" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1575708504529" />
+    <state x="584" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1575810386336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575810386336" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="php-line-method">
+          <url>file://$PROJECT_DIR$/save/emmmp.php</url>
+          <line>330</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\month_report" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="php">
+          <url>file://$PROJECT_DIR$/startbootstrap/pages/server.php</url>
+          <line>68</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
